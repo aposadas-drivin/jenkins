@@ -1,0 +1,28 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "test of mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aposadas-drivin/jenkins.git"
+  },
+  "keywords": [
+    "pe1ota123"
+  ],
+  "author": "Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aposadas-drivin/jenkins/issues"
+  },
+  "homepage": "https://github.com/aposadas-drivin/jenkins#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "mocha": "^3.0.2",
+    "request": "^2.74.0"
+  }
+}
